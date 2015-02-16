@@ -1,0 +1,19 @@
+{
+  "name": "quick-project",
+  "version": "1.0.0",
+  "description": "Quickly create an npm module",
+  "main": "index.js",
+  "bin": {
+    "qp": "./qp.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/quarterto/quick-project.git"
+  },
+  "author": "Matt Brennan <matt@153.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/quarterto/quick-project/issues"
+  },
+  "homepage": "https://github.com/quarterto/quick-project"
+}
